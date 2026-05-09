@@ -277,7 +277,3 @@ response = client.chat.completions.create(
 - Real-time chat interaction
 - Multi-step workflows
 - Responsive design
-
-## License
-
-This project is open source and available under the MIT License.
